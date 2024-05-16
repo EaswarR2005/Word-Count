@@ -23,7 +23,7 @@ count the number of words.
 Giving print statement for getting output.
 
 ## PROGRAM:
-'''
+```
 NAME: EASWAR R
 REGISTER NUMBER: 212223230053
 
@@ -33,7 +33,7 @@ with open("C:/Users/BSS/Documents/words.txt","r") as f1:
      word=i.split()
      num += len(word)
 print("The number of words are in the file is ",num)
-'''
+```
 
 ### words.txt:
 ![Screenshot 2024-05-16 200337](https://github.com/EaswarR2005/Word-Count/assets/146931525/622b0123-2b22-4ab9-b0b5-3fec7988f32c)
